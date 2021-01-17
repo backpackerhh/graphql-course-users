@@ -1,11 +1,34 @@
 {
   "users": [
-    { "id": "23", "firstName": "Bill", "age": 20, "companyId": "2" },
-    { "id": "47", "firstName": "Samantha", "age": 21, "companyId": "1" },
-    { "id": "52", "firstName": "Helen", "age": 32, "companyId": "1" }
+    {
+      "id": "23",
+      "firstName": "Bill",
+      "age": 20,
+      "companyId": "2"
+    },
+    {
+      "id": "47",
+      "firstName": "Samantha",
+      "age": 21,
+      "companyId": "1"
+    },
+    {
+      "id": "52",
+      "firstName": "Helen",
+      "age": 32,
+      "companyId": "1"
+    }
   ],
   "companies": [
-    { "id": "1", "name": "Domestika", "description": "Creative" },
-    { "id": "2", "name": "SUSE", "description": "OS" }
+    {
+      "id": "1",
+      "name": "Domestika",
+      "description": "Creative"
+    },
+    {
+      "id": "2",
+      "name": "SUSE",
+      "description": "OS"
+    }
   ]
 }
